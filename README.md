@@ -8,7 +8,7 @@ In order for us to be able to replicate the issue we need clear and adequate inf
 
 ## Make sure it's really a bug
 
-Many bug reports are actually just mistakes in events, or misunderstood features. Please double-check your events and the documentation.
+Many bug reports are actually just misunderstood features. If possible double-check with the mods in our [Discord server](https://discord.gg/atVXxAK) before submitting here.
 
 ## Only mention one problem per issue
 
